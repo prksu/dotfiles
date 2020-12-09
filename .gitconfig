@@ -1,0 +1,6 @@
+[user]
+  name = Ahmad Nurus S.
+  email = ahmadnurus.sh@gmail.com
+
+[includeIf "gitdir:tokopedia/**"]
+  path = .gitwork/work.inc
