@@ -1,0 +1,6 @@
+zsh-users/zsh-completions
+zsh-users/zsh-autosuggestions
+zsh-users/zsh-syntax-highlighting
+zsh-users/zsh-history-substring-search
+esc/conda-zsh-completion
+ohmyzsh/ohmyzsh path:lib/completion.zsh
